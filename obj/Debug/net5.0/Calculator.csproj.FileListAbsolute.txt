@@ -1,0 +1,16 @@
+D:\itstep\SPM\ConsoleCalculator\Calculator\bin\Debug\net5.0\Calculator.exe
+D:\itstep\SPM\ConsoleCalculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\itstep\SPM\ConsoleCalculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+D:\itstep\SPM\ConsoleCalculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+D:\itstep\SPM\ConsoleCalculator\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\itstep\SPM\ConsoleCalculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\itstep\SPM\ConsoleCalculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+D:\itstep\SPM\ConsoleCalculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
